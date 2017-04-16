@@ -1,7 +1,9 @@
 
 # Descripcion
 
-Plantilla Angular4 que simula una "masterpage" preparada para LazyLoading
+Plantilla Angular4 que simula una "masterpage" preparada para LazyLoading.
+Para ello reemplazamos el componente raíz (app.component) por el "masterpage.component" dejando el módulo
+app.module lo más "limpio" posible, y llevando la lógica del mismo al modulo core.module
 
 # MasterpageWLazyloading
 
